@@ -10,7 +10,7 @@
 
 - 例如:用户口令为 57261234，对应二进制输入为:101111010110001010011100(如图 1、图 2) 
 
-- 实现网页:[home.ustc.edu.cn/~biu/signin](home.ustc.edu.cn/~biu/signin) 
+- 实现网页:[http://home.ustc.edu.cn/~biu/signin](http://home.ustc.edu.cn/~biu/signin) 
 
 2. 客户端加密口令
 - 利用 DES 或 AES 加密方式对输入的二进制串进行加密 
